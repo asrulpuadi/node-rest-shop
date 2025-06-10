@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_ATLAS_PW" : "node-rest-shop",
+        "DB_ATLAS":"mongodb+srv://node-shop:node-shop@node-rest-shop.8xkd7ix.mongodb.net/?retryWrites=true&w=majority&appName=node-rest-shop"
+    }
+}
